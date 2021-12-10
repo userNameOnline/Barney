@@ -31,7 +31,7 @@ nav {
 }
 
 #featured {
-  background-image: url('/featured.jpg');
+  background-image: url('featured.jpg');
   background-size: cover;
   color: white;
   font-size: 30px;
