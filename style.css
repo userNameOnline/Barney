@@ -31,7 +31,7 @@ nav {
 }
 
 #featured {
-  background-image: url(/images/featured.jpg);
+  background-image: url('https://res.cloudinary.com/dxhum1veq/image/upload/v1638653028/Burger%20Site/featured.jpg);
   background-size: cover;
   color: white;
   font-size: 30px;
